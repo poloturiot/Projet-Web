@@ -1,0 +1,58 @@
+.block1{
+	height: 200px;
+	padding-top: 15px;
+	background-color: #10BBBA ;
+}
+
+.block2{	
+	padding-top: 15px;
+	text-align: center;	
+}
+
+.block3{
+	background-color: blue;
+}
+
+.block4{
+	background-color: red;
+}
+
+.image{
+	height: 90px;
+	width: 315px;
+}
+
+.bouton1{	
+	padding-top: 80px;
+	text-align: center;	
+}
+
+.bouton{
+	border: 2px solid gray;
+	height: 50px;
+	width: 250px;
+	padding-bottom: 50px;
+	border-radius: 60px;
+	line-height: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.bouton2{
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+.blockmail{
+	width: 400px;
+	background-color: lightgray;
+}
+
+.boutonmail{
+	padding-top: 15px;
+}
+
+.retour{
+	padding-top: 30px;		
+}
